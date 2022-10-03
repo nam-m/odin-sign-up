@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: "Norse Bold";
+    font-weight: bold;
+    src: url("assets/norsebold-webfontkit/norse-bold-webfont.woff") format("woff"),
+         url("assets/norsebold-webfontkit/norse-bold-webfont.woff2") format("woff2");
+}
+
+.header * {
+    font-family: sans-serif;
+}
+
